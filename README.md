@@ -7,8 +7,7 @@
 
 - 🎓 Computer Science undergraduate at the University of Westminster  
 - 🌱 Currently learning **React, JavaScript, HTML/CSS, Python, Java, Dart**  
-- 💻 Passionate about **software development, web technologies, and problem-solving**  
-- 🧩 Fun fact: I once stayed up all night fixing a bug… only to find out I missed a semicolon!  
+- 💻 Passionate about **software development, web technologies, and problem-solving**   
 
 ---
 
