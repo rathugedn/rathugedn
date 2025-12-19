@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science undergraduate at the University of Westminster  
-- 🌱 Currently learning **React, JavaScript, HTML/CSS, Python**  
+- 🌱 Currently learning **React, JavaScript, HTML/CSS, Python, Java, Dart**  
 - 💻 Passionate about **software development, web technologies, and problem-solving**  
 - 🧩 Fun fact: I once stayed up all night fixing a bug… only to find out I missed a semicolon!  
 
@@ -21,13 +21,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
----
-
-## 📂 Projects
-
-- [React Property Search App](https://your-live-app-link) – Interactive client-side property search app using React, JSON, and responsive design  
-- [Portfolio](https://devindirathuge-portfolio-link) – My personal portfolio showcasing projects and skills  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -35,10 +30,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devindi-rathuge)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rathugedn)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nethminirathuge4@gmail.com)  
 
 ---
-
-## 📊 GitHub Stats
-
-![Devindi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rathugedn&show_icons=true&theme=radical)
